@@ -45,6 +45,7 @@ def get_year_for_age(message):
 
 def get_year(message):
     global year
+    s = ''
     year = int(message.text)
     y = 11 - abs(2000 - year) % 11
     match y:
@@ -94,6 +95,7 @@ def get_day(message):
 
 def get_month(message):
     global month
+    s = ''
     month = int(message.text)
     if (21 <= date <= 31 and month == 3) or (month == 4 and 1 <= date <= 19):
         s = 'Aries'
