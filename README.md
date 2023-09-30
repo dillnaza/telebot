@@ -4,15 +4,11 @@ This Telegram bot is written in Python using the `telebot` library and provides 
 
 ## Table of contents
 
-- [Start of work](#start of work)
 - [Preparation](#preparation)
 - [Functions](#functions)
 - [Usage](#usage)
 - [Code structure](#code-structure)
 - [Contacts](#contacts)
-
-- gmail: dilnazbaidakhanova@gmail.com
-- telegram: @dillnazzza**
 
 ## Getting started
 
