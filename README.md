@@ -8,7 +8,7 @@ This Telegram bot is written in Python using the `telebot` library and provides 
 - [Preparation](#preparation)
 - [Functions](#functions)
 - [Usage](#usage)
-- [Code structure](#codestructure)
+- [Code structure](#code-structure)
 - [Contacts](#contacts)
 
 - gmail: dilnazbaidakhanova@gmail.com
