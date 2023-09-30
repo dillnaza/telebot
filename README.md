@@ -19,7 +19,7 @@ Follow these instructions to set up and run the Telegram bot on your local compu
 Before you start, make sure that you have the following dependencies:
 
 - Python 3.x
-- 'telebot` library (install it using `pip install pyTelegramBotAPI`)
+- `telebot` library (install it using `pip install pyTelegramBotAPI`)
 
 ### Functions
 
