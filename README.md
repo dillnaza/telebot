@@ -57,5 +57,5 @@ The code is divided into several functional parts:
 
 ## Contacts
 
-- gmail: dilnazbaidakhanova@gmail.com
-- telegram: @dillnazzza
+- Email: dilnazbaidakhanova@gmail.com
+- Telegram: @dillnazzza
