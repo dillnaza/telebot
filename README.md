@@ -54,8 +54,3 @@ The code is divided into several functional parts:
 - `get_year_for_age(message)` and `get_year(message)`: Functions for getting the user's year of birth and performing the corresponding calculations.
 
 - `@bot.message_handler(commands=['find_zodiac'])`, `get_day(message)`, and `get_month(message)`: Handlers of the `/find_zodiac` command and functions for getting the user's date of birth and determining the zodiac sign.
-
-## Contacts
-
-- Email: dilnazbaidakhanova@gmail.com
-- Telegram: @dillnazzza
