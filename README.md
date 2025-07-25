@@ -34,4 +34,3 @@ The code is divided into several functional parts:
 - `/find_age`: Asks for the user's birth year, validates input, and calculates age.
 - `/find_animal`: Asks for the user's birth year and determines their Eastern calendar animal symbol.
 - `/find_zodiac`: Asks for day and month of birth, validates the input, and determines the zodiac sign.
-- Utility functions like calculate_age(), calculate_animal(), get_zodiac_by_date() are used for input validation and processing.
