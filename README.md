@@ -42,7 +42,7 @@ The bot provides the following commands:
 
 3. Follow the instructions of the bot to calculate the age, determine the symbol from the "Eastern calendar of animals" or determine the zodiac sign.
 
-## Code structure
+### Code structure
 
 The code is divided into several functional parts:
 
