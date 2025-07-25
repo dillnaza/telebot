@@ -13,14 +13,14 @@ This Telegram bot is written in Python using the `telebot` library and provides 
 
 Follow these instructions to set up and run the Telegram bot on your local computer.
 
-### Preparation
+## Preparation
 
 Before you start, make sure that you have the following dependencies:
 
 - Python 3.x
 - `telebot` library (install it using `pip install pyTelegramBotAPI`)
 
-### Functions
+## Functions
 
 The bot provides the following commands:
 
@@ -34,7 +34,7 @@ The bot provides the following commands:
 
 5. `/find_zodiac`: Determines the user's zodiac sign based on the date of birth.
 
-### Usage
+## Usage
 
 1. Launch the bot using your Telegram Bot API token.
 
@@ -42,7 +42,7 @@ The bot provides the following commands:
 
 3. Follow the instructions of the bot to calculate the age, determine the symbol from the "Eastern calendar of animals" or determine the zodiac sign.
 
-### Code structure
+## Code structure
 
 The code is divided into several functional parts:
 
