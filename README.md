@@ -8,7 +8,6 @@ This Telegram bot is written in Python using the `telebot` library and provides 
 - [Functions](#functions)
 - [Usage](#usage)
 - [Code structure](#code-structure)
-- [Contacts](#contacts)
 
 ## Getting started
 
@@ -47,10 +46,8 @@ The bot provides the following commands:
 
 The code is divided into several functional parts:
 
-- `@bot.message_handler(commands=['start'])` and `@bot.message_handler(commands=['help'])`: Command handlers `/start` and `/help`, which output a welcome message and a list of commands, respectively.
-
-- `@bot.message_handler(commands=['find_age'])` and `@bot.message_handler(commands=['find_animal'])`: Command handlers `/find_age` and `/find_animal`, which run processes to calculate the age and determine the symbol of the "Eastern Calendar of Animals".
-
-- `get_year_for_age(message)` and `get_year(message)`: Functions for getting the user's year of birth and performing the corresponding calculations.
-
-- `@bot.message_handler(commands=['find_zodiac'])`, `get_day(message)`, and `get_month(message)`: Handlers of the `/find_zodiac` command and functions for getting the user's date of birth and determining the zodiac sign.
+- `/start` and `/help`: Handlers that greet the user and show available commands.
+- `/find_age`: Asks for the user's birth year, validates input, and calculates age.
+- `/find_animal`: Asks for the user's birth year and determines their Eastern calendar animal symbol.
+- `/find_zodiac`: Asks for day and month of birth, validates the input, and determines the zodiac sign.
+- Utility functions like calculate_age(), calculate_animal(), get_zodiac_by_date() are used for input validation and processing.
